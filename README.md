@@ -48,7 +48,7 @@ public class PlayerControoler : MonoBehaviour
 ```
 ## Output:
 ![image](https://github.com/kaviya2839/Animator/assets/120553351/e41fa5f2-c5ee-46a7-8ae3-43cda8bce5be)
-moving
+
 ![image](https://github.com/kaviya2839/Animator/assets/120553351/f33e9ecb-83ea-4ce7-b637-6a5ea2687497)
 
 
